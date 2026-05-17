@@ -3,6 +3,18 @@
 Open-source tools for AI-augmented engineering — Claude Code plugins, MCP servers, security scanners, schedulers, and dev-productivity utilities.
 Each project is its own repo with its own LICENSE, README, tests, and release tags.
 
+[![PyPI argus-audit](https://img.shields.io/pypi/v/argus-audit?label=pypi%20argus-audit)](https://pypi.org/project/argus-audit/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+[![Claude Code Marketplace](https://img.shields.io/badge/Claude%20Code-marketplace-blue?logo=anthropic)](https://github.com/mturac/claude-plugin-marketplace)
+
+## Listed in
+
+- [`awesome-agents` (kyrolabs) — PR #483](https://github.com/kyrolabs/awesome-agents/pull/483)
+- [`awesome-claude-code-toolkit` (rohitg00) — PR #412](https://github.com/rohitg00/awesome-claude-code-toolkit/pull/412)
+- [`Awesome-AI-Agents` (Jenqyang) — PR #241](https://github.com/Jenqyang/Awesome-AI-Agents/pull/241)
+- Auto-discovered by `claudemarketplaces.com`, `claude-plugins.dev`, and `Chat2AnyLLM/awesome-claude-plugins`
+- Pending manual submissions: [anthropics/claude-plugins-official](https://clau.de/plugin-directory-submission) and [mcpservers.org/submit](https://mcpservers.org/submit) (web forms)
+
 ## Claude Code plugins (pluginpool)
 
 Ten small, focused plugins solving real day-to-day developer-productivity problems. Python 3 stdlib only at runtime; hermetic tests.
